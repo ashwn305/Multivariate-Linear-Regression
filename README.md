@@ -41,9 +41,7 @@ print('Predicted CO2 for the corresponding weight and volume:', predictedCO2)
 ```
 ## Output:
 
-### Insert your output
-
-<br>
+<img width="536" height="51" alt="image" src="https://github.com/user-attachments/assets/9e341d66-e9df-47a8-9916-1bcf058c0723" />
 
 ## Result
 Thus the multivariate linear regression is implemented and predicted the output using python program.
